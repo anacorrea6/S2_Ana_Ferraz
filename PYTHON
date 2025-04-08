@@ -1,0 +1,10 @@
+print("digite a roupa do carro, que eu falarei o seu preço")
+    roupa= int(input("diga o preço da moto:"))
+    multa = (velocidade - 80) *5
+    
+    if velocidade > 80:
+        print (preço no valor de moto reais")
+>>>>>>> Incluir1
+       
+    else:
+        print(" roupas")0,3
